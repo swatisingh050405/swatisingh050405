@@ -32,7 +32,7 @@ I'm a Computer Science undergrad at Maharaja Agrasen Institute of Technology wit
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 **Databases & Tools**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
@@ -67,9 +67,6 @@ I'm a Computer Science undergrad at Maharaja Agrasen Institute of Technology wit
 
 
 
-## 📊 GitHub Stats
 
-![Swati's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swatisingh050405&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swatisingh050405&layout=compact&hide_border=true)
 
 
