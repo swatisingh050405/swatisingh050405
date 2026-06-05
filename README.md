@@ -9,10 +9,12 @@ I'm a Computer Science undergrad at Maharaja Agrasen Institute of Technology wit
 ## 🛠️ Tech Stack
 
 **Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 **ML / Deep Learning**
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
@@ -20,12 +22,13 @@ I'm a Computer Science undergrad at Maharaja Agrasen Institute of Technology wit
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
 
 **MLOps & Deployment**
+
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat&logo=dvc&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 **Web & Backend**
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -52,9 +55,7 @@ I'm a Computer Science undergrad at Maharaja Agrasen Institute of Technology wit
 - Text preprocessing pipeline for feature extraction from movie metadata
 - Dynamic top-N recommendations served in real time via FastAPI
 
-### 🚗 [CARS Project — Flask Web App](https://github.com/swatisingh050405/CARS--Project)
-- Flask-based web application for storing and managing CARS project data
-- Backend built with HTML, CSS, and Flask routing
+
 
 ---
 
