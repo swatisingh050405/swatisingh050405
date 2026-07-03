@@ -1,11 +1,7 @@
 <div align="center">
-
-<img src="YOUR_BANNER_LINK" width="100%" alt="banner"/>
-
+<img src="https://raw.githubusercontent.com/swatisingh050405/swatisingh050405/main/banner.png" width="100%" alt="banner"/>
 <br><br>
-
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+in+Progress;Machine+Learning+%7C+Deep+Learning;MLOps+%7C+Generative+AI;Building+Intelligent+Applications;Always+Learning+Something+New"/>
-
 </div>
 
 ---
@@ -88,30 +84,23 @@ I believe the best way to learn is by building, experimenting, and continuously 
 
 ---
   
- # 📊 GitHub Stats:
- <div align="center" , width =" 100%">
 
-![](https://github-readme-stats.shion.dev/api?username=swatisingh050405&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-</div>
+# 📊 GitHub Stats:
 
 <div align="center">
-
-![](https://streak-stats.demolab.com/?user=swatisingh050405&theme=midnight-purple&hide_border=false)<br/>
+<img src="https://github-readme-stats.shion.dev/api?username=swatisingh050405&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" width="80%"/>
+<br/>
+<img src="https://streak-stats.demolab.com/?user=swatisingh050405&theme=midnight-purple&hide_border=false" width="80%"/>
+<br/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=swatisingh050405&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="80%"/>
 </div>
 
-<div align="center">
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=swatisingh050405&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
-
----
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+<div align="center">
 
-
-### ⭐ *Turning curiosity into intelligent solutions, one project at a time.*
+###    ⭐ *Turning curiosity into intelligent solutions, one project at a time.*
 
 </div>
