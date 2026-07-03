@@ -1,73 +1,117 @@
-# Hi there, I'm Swati Singh 👋
+<div align="center">
 
-I'm a Computer Science undergrad at Maharaja Agrasen Institute of Technology with a strong focus on Machine Learning, Deep Learning, and MLOps. I love building end-to-end ML systems — from data preprocessing to model deployment. Currently exploring how ML intersects with real-world production systems.
+<img src="YOUR_BANNER_LINK" width="100%" alt="banner"/>
 
-📍 Delhi, India  |  📬 swatisingh050405@gmail.com  |  [LinkedIn](https://linkedin.com/in/swati-singh-5a3ba5322)
+<br><br>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+in+Progress;Machine+Learning+%7C+Deep+Learning;MLOps+%7C+Generative+AI;Building+Intelligent+Applications;Always+Learning+Something+New"/>
 
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-
-**ML / Deep Learning**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
-
-**MLOps & Deployment**
-
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat&logo=dvc&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-**Web & Backend**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**Databases & Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+</div>
 
 ---
 
-## 🚀 Projects
+# 💫 About Me
 
-### 🩺 [Kidney Disease Classification — Deep Learning + MLOps](https://github.com/swatisingh050405/kidney-disease-classification-project)
-- Multi-class kidney CT scan classifier using VGG16 (transfer learning, PyTorch)
-- Modular pipeline for preprocessing, training, and evaluation
-- Experiment tracking with MLflow (DagsHub) + data versioning with DVC
-- Achieved ~91.8% test accuracy | CI/CD deployment pipeline
+I'm an aspiring **AI/ML Engineer** driven by curiosity and a passion for building intelligent applications. My journey revolves around **Machine Learning, Deep Learning, MLOps, and Generative AI**, with a growing interest in developing scalable AI systems that create real-world impact.
 
-### 🎬 [Movie Recommendation System — NLP + FastAPI](https://github.com/swatisingh050405/recommendation_system)
-- Content-based recommender using TF-IDF vectorization and cosine similarity
-- Text preprocessing pipeline for feature extraction from movie metadata
-- Dynamic top-N recommendations served in real time via FastAPI
+I believe the best way to learn is by building, experimenting, and continuously improving. Along the way, I've worked on projects that challenge me to think beyond the classroom.
 
-
+🎧 Outside of coding, I enjoy listening to music, travelling, and relaxing with a good series.
 
 ---
 
-## 💼 Experience
+# ⚡ Quick Facts
 
-**Intern — DRDO** *(June 2025 – August 2025)*
-- Built a web-based project management system using Flask and PostgreSQL
-- Implemented backend modules for project tracking and centralized data storage
-- Designed structured database schemas for improved data organization and accessibility
+- 🌱 Currently learning **Agentic AI, LLM Engineering & Advanced RAG**
+- 💬 Ask me about **Python, Machine Learning, Deep Learning, FastAPI, React & MLOps**
+- 📫 Reach me at **swatisingh050405@gmail.com**
+- ⚡ Fun Fact: *I somehow end up solving my toughest bugs after listening to music.* 🎧
+
+---
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/swati-singh-ai/">LinkedIn</a> •
+<a href="mailto:swatisingh050405@gmail.com">Gmail</a> •
+<a href="https://leetcode.com/u/swatisingh545/">LeetCode</a> •
+<a href="https://www.instagram.com/swati___singh5/">Instagram</a>
+</p>
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+## 💻 Programming & Development
+
+<p align="center">
+<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://react.dev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://fastapi.tiangolo.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="48" height="48"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.djangoproject.com"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48"/></a>
+</p>
+
+<br>
+
+## 🤖 AI / Machine Learning
+
+<p align="center">
+<a href="https://pytorch.org"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="48" height="48"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://scikit-learn.org"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://pandas.pydata.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://numpy.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48"/></a>&nbsp;&nbsp;&nbsp;
+
+</p>
+
+<br>
+
+## ⚙️ Databases • Tools • Deployment
+
+<p align="center">
+<a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="48" height="48"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.mysql.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.sqlite.org"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="48" height="48"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://git-scm.com"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/features/actions"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="48" height="48"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.docker.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="48" height="48"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://vercel.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="48" height="48"/></a>&nbsp;&nbsp;&nbsp;
+
+</p>
+
+</div>
+
+---
+  
+ # 📊 GitHub Stats:
+ <div align="center" , width =" 100%">
+
+![](https://github-readme-stats.shion.dev/api?username=swatisingh050405&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+</div>
+
+<div align="center">
+
+![](https://streak-stats.demolab.com/?user=swatisingh050405&theme=midnight-purple&hide_border=false)<br/>
+</div>
+
+<div align="center">
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=swatisingh050405&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
+
+---
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
+### ⭐ *Turning curiosity into intelligent solutions, one project at a time.*
 
-
-
+</div>
