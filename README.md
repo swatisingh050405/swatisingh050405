@@ -21,7 +21,7 @@ I believe the best way to learn is by building, experimenting, and continuously 
 - 🌱 Currently learning **Agentic AI, LLM Engineering & Advanced RAG**
 - 💬 Ask me about **Python, Machine Learning, Deep Learning, FastAPI, React & MLOps**
 - 📫 Reach me at **swatisingh050405@gmail.com**
-- ⚡ Fun Fact: *I somehow end up solving my toughest bugs after listening to music.* 🎧
+- ⚡ Fun Fact: * I'd rather debug a model at 4 AM than leave it broken overnight* 🎧
 
 ---
 
@@ -30,7 +30,6 @@ I believe the best way to learn is by building, experimenting, and continuously 
 <p align="center">
 <a href="https://www.linkedin.com/in/swati-singh-ai/">LinkedIn</a> •
 <a href="mailto:swatisingh050405@gmail.com">Gmail</a> •
-<a href="https://leetcode.com/u/swatisingh545/">LeetCode</a> •
 <a href="https://www.instagram.com/swati___singh5/">Instagram</a>
 </p>
 
